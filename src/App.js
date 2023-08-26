@@ -6,6 +6,7 @@ import ParentComponent from './ParentComponent';
 function App() {
   return (
     <div className="App">
+      <h1>My React App</h1>
       <Counter />
       <ParentComponent />
     </div>
